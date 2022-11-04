@@ -1,0 +1,16 @@
+BD\DriverManager.class
+com\mycompany\bd_relacional\RegistarUsuario.class
+com\mycompany\bd_relacional\IniciarSesionController.class
+Clases\Prenda.class
+com\mycompany\bd_relacional\VariablesLogin.class
+Clases\CRUD_Usuario.class
+Clases\Persona.class
+com\mycompany\bd_relacional\SecondaryController.class
+com\mycompany\bd_relacional\ConsultarprendasController.class
+module-info.class
+BD\Conexion.class
+Clases\Comprobar.class
+Clases\GestoraInformacion.class
+com\mycompany\bd_relacional\App.class
+BD\SQLException.class
+com\mycompany\bd_relacional\PrimaryController.class
